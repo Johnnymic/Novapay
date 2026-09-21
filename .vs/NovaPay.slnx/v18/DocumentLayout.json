@@ -1,0 +1,1509 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\persistence\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\persistence\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\interfaces\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\interfaces\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\service\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\service\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\service\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\service\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\service\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\service\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\interfaces\\iwalletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\interfaces\\iwalletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\interfaces\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\interfaces\\itransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\service\\helperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\service\\helperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\logging\\nlogconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\logging\\nlogconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\interfaces\\ihelperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\interfaces\\ihelperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\persistence\\novacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\persistence\\novacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\response\\admincustomerwalletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\response\\admincustomerwalletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\common\\validatorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\common\\validatorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\extension\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\extension\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260920160555_AddTransferReversals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nova.DataAccess\\Migrations\\20260920160555_AddTransferReversals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\configuration\\wallettransactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\configuration\\wallettransactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\configuration\\transferconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\configuration\\transferconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\configuration\\walletconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\configuration\\walletconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\controllers\\transfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\controllers\\transfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\migrations\\20260920151415_addtransferreversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\migrations\\20260920151415_addtransferreversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\extension\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\extension\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\entities\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\entities\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\entities\\wallettransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\entities\\wallettransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\novapay.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\novapay.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\nova.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\nova.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\nova.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\nova.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\nova.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\nova.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\common\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\common\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\common\\ledgerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\common\\ledgerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\validation\\transferwalletrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\validation\\transferwalletrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\validation\\creditwalletrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\validation\\creditwalletrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\request\\creditwalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\request\\creditwalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\mappers\\walletprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\mappers\\walletprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\mappers\\walletmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\mappers\\walletmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\response\\reversetransferresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\response\\reversetransferresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\request\\reversetransferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\request\\reversetransferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\service\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\service\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\response\\statemententryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\response\\statemententryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\migrations\\20260919140125_addcustomerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\migrations\\20260919140125_addcustomerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\request\\walletstatementrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\request\\walletstatementrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\request\\createwalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\request\\createwalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\interfaces\\auth\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\interfaces\\auth\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\configuration\\customerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\configuration\\customerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\request\\freezewalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\request\\freezewalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\response\\dailylimitstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\response\\dailylimitstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\middleware\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\middleware\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\exceptions\\operationalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\exceptions\\operationalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\config\\walletconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\config\\walletconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\configuration\\auditlogentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\configuration\\auditlogentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\migrations\\20260918113324_addnovapay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\migrations\\20260918113324_addnovapay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\migrations\\20260918114534_addnovapays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\migrations\\20260918114534_addnovapays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\response\\walletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\response\\walletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\mappers\\authmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\mappers\\authmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\validation\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\validation\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\migrations\\20260918112621_addnovapaywallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\migrations\\20260918112621_addnovapaywallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918112205_AddNovaPayWallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nova.DataAccess\\Migrations\\20260918112205_AddNovaPayWallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918112028_AddNovaPays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nova.DataAccess\\Migrations\\20260918112028_AddNovaPays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\configuration\\outboxmessageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\configuration\\outboxmessageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\configuration\\idempotencyrequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\configuration\\idempotencyrequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918111743_AddNovaPay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nova.DataAccess\\Migrations\\20260918111743_AddNovaPay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\novapay\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894315A9-2108-78BA-ABB3-0CC510DBDD29}|NovaPay\\NovaPay.csproj|solutionrelative:novapay\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\entities\\idempotencyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\entities\\idempotencyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\request\\transferwalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\request\\transferwalletrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\response\\transferwalletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\response\\transferwalletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\response\\creditwalletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\response\\creditwalletresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\validation\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\validation\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\dto\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\dto\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8A655-1045-8DF6-E501-D9E05B2EF78F}|Nova.Application\\Nova.Application.csproj|solutionrelative:nova.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\configuration\\dailytransferlimitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\configuration\\dailytransferlimitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\entities\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\entities\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.domain\\entities\\dailytransferlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E3B2CC-2942-4E84-5086-720B98D9BDAA}|Nova.Domain\\Nova.Domain.csproj|solutionrelative:nova.domain\\entities\\dailytransferlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|c:\\users\\john.michael\\source\\repos\\novapay\\nova.dataaccess\\migrations\\20260918125204_addnova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260B1487-0903-C919-7449-B7BDA571384C}|Nova.DataAccess\\Nova.DataAccess.csproj|solutionrelative:nova.dataaccess\\migrations\\20260918125204_addnova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NlogConfig.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Logging\\NlogConfig.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Logging\\NlogConfig.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Logging\\NlogConfig.cs",
+              "RelativeToolTip": "Nova.Application\\Logging\\NlogConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T17:30:22.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260920160555_AddTransferReversals.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260920160555_AddTransferReversals.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Migrations\\20260920160555_AddTransferReversals.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260920160555_AddTransferReversals.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Migrations\\20260920160555_AddTransferReversals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T16:05:55.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminCustomerWalletResponse.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\AdminCustomerWalletResponse.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Response\\AdminCustomerWalletResponse.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\AdminCustomerWalletResponse.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Response\\AdminCustomerWalletResponse.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T15:45:29.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260920151415_AddTransferReversal.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260920151415_AddTransferReversal.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Migrations\\20260920151415_AddTransferReversal.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260920151415_AddTransferReversal.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Migrations\\20260920151415_AddTransferReversal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T15:20:44.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Persistence\\AdminSeeder.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Persistence\\AdminSeeder.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Persistence\\AdminSeeder.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Persistence\\AdminSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T15:16:19.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TransferController.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\TransferController.cs",
+              "RelativeDocumentMoniker": "NovaPay\\Controllers\\TransferController.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\TransferController.cs",
+              "RelativeToolTip": "NovaPay\\Controllers\\TransferController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwB8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:17:53.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransferService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\TransferService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Service\\TransferService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\TransferService.cs",
+              "RelativeToolTip": "Nova.Application\\Service\\TransferService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwF0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:14:22.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WalletProfile.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Mappers\\WalletProfile.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Mappers\\WalletProfile.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Mappers\\WalletProfile.cs",
+              "RelativeToolTip": "Nova.Application\\Mappers\\WalletProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T09:42:12.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITransferService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\ITransferService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Interfaces\\ITransferService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\ITransferService.cs",
+              "RelativeToolTip": "Nova.Application\\Interfaces\\ITransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T09:33:08.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IHelperService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\IHelperService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Interfaces\\IHelperService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\IHelperService.cs",
+              "RelativeToolTip": "Nova.Application\\Interfaces\\IHelperService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T09:29:54.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HelperService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\HelperService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Service\\HelperService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\HelperService.cs",
+              "RelativeToolTip": "Nova.Application\\Service\\HelperService.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAvwAMBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T09:28:53.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CommonUtils.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Common\\CommonUtils.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Common\\CommonUtils.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Common\\CommonUtils.cs",
+              "RelativeToolTip": "Nova.Application\\Common\\CommonUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T09:26:30.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidatorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Common\\ValidatorHelper.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Common\\ValidatorHelper.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Common\\ValidatorHelper.cs",
+              "RelativeToolTip": "Nova.Application\\Common\\ValidatorHelper.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAADwv34AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T09:25:12.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ReverseTransferRequest.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\ReverseTransferRequest.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Request\\ReverseTransferRequest.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\ReverseTransferRequest.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Request\\ReverseTransferRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T19:54:04.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LedgerHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Common\\LedgerHelpers.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Common\\LedgerHelpers.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Common\\LedgerHelpers.cs",
+              "RelativeToolTip": "Nova.Application\\Common\\LedgerHelpers.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAlwGYBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T15:22:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ReverseTransferResponse.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\ReverseTransferResponse.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Response\\ReverseTransferResponse.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\ReverseTransferResponse.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Response\\ReverseTransferResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T15:17:14.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "Nova.Application\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T15:02:08.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\AdminService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Service\\AdminService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\AdminService.cs",
+              "RelativeToolTip": "Nova.Application\\Service\\AdminService.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAqwO0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T14:36:12.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20260919140125_AddCustomerRole.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260919140125_AddCustomerRole.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Migrations\\20260919140125_AddCustomerRole.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260919140125_AddCustomerRole.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Migrations\\20260919140125_AddCustomerRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T14:10:37.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FreezeWalletRequest.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\FreezeWalletRequest.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Request\\FreezeWalletRequest.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\FreezeWalletRequest.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Request\\FreezeWalletRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T10:24:43.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WalletStatementRequest.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\WalletStatementRequest.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Request\\WalletStatementRequest.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\WalletStatementRequest.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Request\\WalletStatementRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T10:12:57.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateWalletRequest.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\CreateWalletRequest.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Request\\CreateWalletRequest.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\CreateWalletRequest.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Request\\CreateWalletRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T10:12:33.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DailyLimitStatusResponse.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\DailyLimitStatusResponse.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Response\\DailyLimitStatusResponse.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\DailyLimitStatusResponse.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Response\\DailyLimitStatusResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T10:10:13.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StatementEntryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\StatementEntryResponse.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Response\\StatementEntryResponse.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\StatementEntryResponse.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Response\\StatementEntryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T10:09:14.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "NovaPay\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "NovaPay\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T10:05:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "WalletConfig.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Config\\WalletConfig.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Config\\WalletConfig.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Config\\WalletConfig.cs",
+              "RelativeToolTip": "Nova.Application\\Config\\WalletConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T15:28:06.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Response\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\ResponseModel.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Response\\ResponseModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T13:25:50.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Middleware\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "NovaPay\\Middleware\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Middleware\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "NovaPay\\Middleware\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T13:22:57.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20260918125204_AddNova.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918125204_AddNova.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Migrations\\20260918125204_AddNova.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918125204_AddNova.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Migrations\\20260918125204_AddNova.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:52:04.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "WalletResponse.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\WalletResponse.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Response\\WalletResponse.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\WalletResponse.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Response\\WalletResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:08:28.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "NovaPay\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "NovaPay\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:55:51.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "NovaPay\\Controllers\\WalletController.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "NovaPay\\Controllers\\WalletController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:53:29.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20260918114534_AddNovaPays.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918114534_AddNovaPays.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Migrations\\20260918114534_AddNovaPays.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918114534_AddNovaPays.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Migrations\\20260918114534_AddNovaPays.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:45:34.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NovaPay\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NovaPay\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:38:47.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20260918113324_AddNovaPay.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918113324_AddNovaPay.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Migrations\\20260918113324_AddNovaPay.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918113324_AddNovaPay.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Migrations\\20260918113324_AddNovaPay.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:33:24.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20260918112621_AddNovaPayWallet.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918112621_AddNovaPayWallet.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Migrations\\20260918112621_AddNovaPayWallet.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918112621_AddNovaPayWallet.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Migrations\\20260918112621_AddNovaPayWallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:26:22.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20260918112205_AddNovaPayWallet.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918112205_AddNovaPayWallet.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Migrations\\20260918112205_AddNovaPayWallet.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918112205_AddNovaPayWallet.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Migrations\\20260918112205_AddNovaPayWallet.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:22:05.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20260918112028_AddNovaPays.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918112028_AddNovaPays.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Migrations\\20260918112028_AddNovaPays.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918112028_AddNovaPays.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Migrations\\20260918112028_AddNovaPays.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:20:28.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20260918111743_AddNovaPay.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918111743_AddNovaPay.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Migrations\\20260918111743_AddNovaPay.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Migrations\\20260918111743_AddNovaPay.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Migrations\\20260918111743_AddNovaPay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:17:44.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NovaPay.csproj",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\NovaPay.csproj",
+              "RelativeDocumentMoniker": "NovaPay\\NovaPay.csproj",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\NovaPay.csproj",
+              "RelativeToolTip": "NovaPay\\NovaPay.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T11:01:46.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Nova.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Nova.Application.csproj",
+              "RelativeDocumentMoniker": "Nova.Application\\Nova.Application.csproj",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Nova.Application.csproj",
+              "RelativeToolTip": "Nova.Application\\Nova.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T10:59:41.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "NovaPay\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\WeatherForecast.cs",
+              "RelativeToolTip": "NovaPay\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:42:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NovaPay\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NovaPay\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:42:23.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Extension\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Extension\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Extension\\ServiceExtension.cs",
+              "RelativeToolTip": "Nova.Application\\Extension\\ServiceExtension.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:58:19.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Program.cs",
+              "RelativeDocumentMoniker": "NovaPay\\Program.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\Program.cs",
+              "RelativeToolTip": "NovaPay\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvzEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:56:17.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\appsettings.json",
+              "RelativeDocumentMoniker": "NovaPay\\appsettings.json",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\NovaPay\\appsettings.json",
+              "RelativeToolTip": "NovaPay\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-18T09:56:13.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Extension\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Extension\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Extension\\ServiceExtension.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Extension\\ServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:54:53.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Nova.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Nova.Domain.csproj",
+              "RelativeDocumentMoniker": "Nova.Domain\\Nova.Domain.csproj",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Nova.Domain.csproj",
+              "RelativeToolTip": "Nova.Domain\\Nova.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T07:39:21.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TransferWalletRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Validation\\TransferWalletRequestValidator.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Validation\\TransferWalletRequestValidator.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Validation\\TransferWalletRequestValidator.cs",
+              "RelativeToolTip": "Nova.Application\\Validation\\TransferWalletRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T19:42:28.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "TransferWalletResponse.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\TransferWalletResponse.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Response\\TransferWalletResponse.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\TransferWalletResponse.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Response\\TransferWalletResponse.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T19:41:01.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "TransferWalletRequest.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\TransferWalletRequest.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Request\\TransferWalletRequest.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\TransferWalletRequest.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Request\\TransferWalletRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T19:38:35.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWalletService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\IWalletService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Interfaces\\IWalletService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\IWalletService.cs",
+              "RelativeToolTip": "Nova.Application\\Interfaces\\IWalletService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T19:20:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OperationalException.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Exceptions\\OperationalException.cs",
+              "RelativeDocumentMoniker": "Nova.Domain\\Exceptions\\OperationalException.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Exceptions\\OperationalException.cs",
+              "RelativeToolTip": "Nova.Domain\\Exceptions\\OperationalException.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswD0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T18:36:29.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WalletMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Mappers\\WalletMappingProfile.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Mappers\\WalletMappingProfile.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Mappers\\WalletMappingProfile.cs",
+              "RelativeToolTip": "Nova.Application\\Mappers\\WalletMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T18:05:05.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WalletService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\WalletService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Service\\WalletService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\WalletService.cs",
+              "RelativeToolTip": "Nova.Application\\Service\\WalletService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwD8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T18:04:01.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CreditWalletResponse.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\CreditWalletResponse.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Response\\CreditWalletResponse.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\CreditWalletResponse.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Response\\CreditWalletResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T18:01:35.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreditWalletRequest.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\CreditWalletRequest.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Request\\CreditWalletRequest.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\CreditWalletRequest.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Request\\CreditWalletRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T18:00:20.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreditWalletRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Validation\\CreditWalletRequestValidator.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Validation\\CreditWalletRequestValidator.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Validation\\CreditWalletRequestValidator.cs",
+              "RelativeToolTip": "Nova.Application\\Validation\\CreditWalletRequestValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T17:59:30.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AuthMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Mappers\\AuthMappingProfile.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Mappers\\AuthMappingProfile.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Mappers\\AuthMappingProfile.cs",
+              "RelativeToolTip": "Nova.Application\\Mappers\\AuthMappingProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:53:59.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Service\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\Auth\\AuthService.cs",
+              "RelativeToolTip": "Nova.Application\\Service\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:47:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Service\\Auth\\TokenService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Service\\Auth\\TokenService.cs",
+              "RelativeToolTip": "Nova.Application\\Service\\Auth\\TokenService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADgvxsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:32:42.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\Auth\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Interfaces\\Auth\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\Auth\\ITokenService.cs",
+              "RelativeToolTip": "Nova.Application\\Interfaces\\Auth\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:31:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "LoginValidator.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Validation\\LoginValidator.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Validation\\LoginValidator.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Validation\\LoginValidator.cs",
+              "RelativeToolTip": "Nova.Application\\Validation\\LoginValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:26:01.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RegisterValidator.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Validation\\RegisterValidator.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Validation\\RegisterValidator.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Validation\\RegisterValidator.cs",
+              "RelativeToolTip": "Nova.Application\\Validation\\RegisterValidator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:23:53.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Response\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Response\\LoginResponse.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Response\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:19:11.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Request\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\RegisterRequest.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Request\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:18:31.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Dto\\Request\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Dto\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "Nova.Application\\Dto\\Request\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:17:55.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Interfaces\\Auth\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "Nova.Application\\Interfaces\\Auth\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:15:00.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Nova.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:06:40.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Nova.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Nova.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:06:38.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Persistence\\Repository.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Persistence\\Repository.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Persistence\\Repository.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Persistence\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:01:59.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:01:45.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NovaContext.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Persistence\\NovaContext.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Persistence\\NovaContext.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Persistence\\NovaContext.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Persistence\\NovaContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:01:06.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "OutboxMessageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\OutboxMessageConfiguration.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Configuration\\OutboxMessageConfiguration.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\OutboxMessageConfiguration.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Configuration\\OutboxMessageConfiguration.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:56:33.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IdempotencyRequestConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\IdempotencyRequestConfiguration.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Configuration\\IdempotencyRequestConfiguration.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\IdempotencyRequestConfiguration.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Configuration\\IdempotencyRequestConfiguration.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:53:57.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AuditLogEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\AuditLogEntityConfig.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Configuration\\AuditLogEntityConfig.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\AuditLogEntityConfig.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Configuration\\AuditLogEntityConfig.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:53:14.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CustomerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\CustomerConfig.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Configuration\\CustomerConfig.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\CustomerConfig.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Configuration\\CustomerConfig.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:52:16.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "DailyTransferLimitConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\DailyTransferLimitConfiguration.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Configuration\\DailyTransferLimitConfiguration.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\DailyTransferLimitConfiguration.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Configuration\\DailyTransferLimitConfiguration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:51:02.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransferConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\TransferConfiguration.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Configuration\\TransferConfiguration.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\TransferConfiguration.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Configuration\\TransferConfiguration.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:49:07.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WalletTransactionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\WalletTransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Configuration\\WalletTransactionConfiguration.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\WalletTransactionConfiguration.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Configuration\\WalletTransactionConfiguration.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:46:52.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WalletConfig.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\WalletConfig.cs",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Configuration\\WalletConfig.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Configuration\\WalletConfig.cs",
+              "RelativeToolTip": "Nova.DataAccess\\Configuration\\WalletConfig.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:42:08.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Nova.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Nova.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Nova.DataAccess\\Nova.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.DataAccess\\Nova.DataAccess.csproj",
+              "RelativeToolTip": "Nova.DataAccess\\Nova.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T13:39:10.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "Nova.Domain\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Enums\\Enums.cs",
+              "RelativeToolTip": "Nova.Domain\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:27:15.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IdempotencyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\IdempotencyRequest.cs",
+              "RelativeDocumentMoniker": "Nova.Domain\\Entities\\IdempotencyRequest.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\IdempotencyRequest.cs",
+              "RelativeToolTip": "Nova.Domain\\Entities\\IdempotencyRequest.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA8wBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:18:28.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "OutboxMessage.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\OutboxMessage.cs",
+              "RelativeDocumentMoniker": "Nova.Domain\\Entities\\OutboxMessage.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\OutboxMessage.cs",
+              "RelativeToolTip": "Nova.Domain\\Entities\\OutboxMessage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:16:33.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\Transfer.cs",
+              "RelativeDocumentMoniker": "Nova.Domain\\Entities\\Transfer.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\Transfer.cs",
+              "RelativeToolTip": "Nova.Domain\\Entities\\Transfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:16:12.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Nova.Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "Nova.Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:15:49.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "DailyTransferLimit.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\DailyTransferLimit.cs",
+              "RelativeDocumentMoniker": "Nova.Domain\\Entities\\DailyTransferLimit.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\DailyTransferLimit.cs",
+              "RelativeToolTip": "Nova.Domain\\Entities\\DailyTransferLimit.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:15:09.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WalletTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\WalletTransaction.cs",
+              "RelativeDocumentMoniker": "Nova.Domain\\Entities\\WalletTransaction.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\WalletTransaction.cs",
+              "RelativeToolTip": "Nova.Domain\\Entities\\WalletTransaction.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:05:09.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\Wallet.cs",
+              "RelativeDocumentMoniker": "Nova.Domain\\Entities\\Wallet.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\Wallet.cs",
+              "RelativeToolTip": "Nova.Domain\\Entities\\Wallet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvxYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:04:47.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Nova.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\John.Michael\\source\\repos\\NovaPay\\Nova.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Nova.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:04:24.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\bin\Debug\net8.0\Nova.Domain.deps.json
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\bin\Debug\net8.0\Nova.Domain.dll
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\bin\Debug\net8.0\Nova.Domain.pdb
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\obj\Debug\net8.0\Nova.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\obj\Debug\net8.0\Nova.Domain.AssemblyInfoInputs.cache
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\obj\Debug\net8.0\Nova.Domain.AssemblyInfo.cs
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\obj\Debug\net8.0\Nova.Domain.csproj.CoreCompileInputs.cache
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\obj\Debug\net8.0\Nova.Domain.dll
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\obj\Debug\net8.0\refint\Nova.Domain.dll
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\obj\Debug\net8.0\Nova.Domain.pdb
+C:\Users\John.Michael\source\repos\NovaPay\Nova.Domain\obj\Debug\net8.0\ref\Nova.Domain.dll

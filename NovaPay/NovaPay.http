@@ -1,0 +1,6 @@
+@NovaPay_HostAddress = http://localhost:5186
+
+GET {{NovaPay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

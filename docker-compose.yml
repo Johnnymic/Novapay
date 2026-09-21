@@ -1,0 +1,61 @@
+services:
+
+  novapay-api:
+    container_name: novapay-api
+
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    ports:
+      - "8080:8080"
+
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+
+      ConnectionStrings__DefaultConnection: "server=mysql;port=3306;database=NovaPayDb;user=novapay;password=NovaPayPassword123!"
+
+    depends_on:
+      mysql:
+        condition: service_healthy
+
+    restart: unless-stopped
+
+  mysql:
+    container_name: novapay-mysql
+
+    image: mysql:8.0
+
+    environment:
+      MYSQL_DATABASE: NovaPayDb
+      MYSQL_USER: novapay
+      MYSQL_PASSWORD: NovaPayPassword123!
+      MYSQL_ROOT_PASSWORD: RootPassword123!
+
+    ports:
+      - "3306:3306"
+
+    volumes:
+      - novapay_mysql_data:/var/lib/mysql
+
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "mysqladmin",
+          "ping",
+          "-h",
+          "localhost",
+          "-u",
+          "root",
+          "-pRootPassword123!"
+        ]
+
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+    restart: unless-stopped
+
+volumes:
+  novapay_mysql_data:

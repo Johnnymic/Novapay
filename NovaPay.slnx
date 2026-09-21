@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Nova.Application/Nova.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="Nova.Domain/Nova.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Nova.DataAccess/Nova.DataAccess.csproj" />
+  </Folder>
+  <Project Path="NovaPay/NovaPay.csproj" />
+</Solution>
